@@ -1,0 +1,7 @@
+{
+  "name": "CSS Picker",
+  "version": "1.0.0",
+  "description": "iOS用CSS拾取工具",
+  "author": "Lin",
+  "entry": "index.js"
+}
